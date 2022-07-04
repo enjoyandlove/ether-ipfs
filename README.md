@@ -115,6 +115,4 @@ Tested with:
 * Google Chrome 64.0.3282.167 (Official Build) (64-bit)
 
 ---
-### Links
 
-Teach and learn JavaScript with us at RED Academy: https://redacademy.com/
